@@ -1,0 +1,6 @@
+<ruleset xmlns="http://pmd.sf.net/ruleset/1.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="pmd-ruleset-graphql" xsi:noNamespaceSchemaLocation="http://pmd.sf.net/ruleset_xml_schema.xsd" xsi:schemaLocation="http://pmd.sf.net/ruleset/1.0.0 http://pmd.sf.net/ruleset_xml_schema.xsd">
+	<rule ref="category/java/errorprone.xml"/>
+	<rule ref="category/java/bestpractices.xml"/>
+	<rule ref="category/java/performance.xml"/>
+	<rule ref="category/java/security.xml"/>
+</ruleset>
