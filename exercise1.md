@@ -3,7 +3,7 @@
 ## How to recreate
 Report is available in pmd-collected.csv, created by running runpmd.sh.
 
-##Chosen checks
+## Chosen checks
 For each check only the first occurrence will be listed. Checks are listed in perceived order of importance, from most to least important.
 
 ### ConstructorCallsOverridableMethod
